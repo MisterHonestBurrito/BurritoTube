@@ -13,7 +13,7 @@ BurritoTube is a little script that returns the old Youtube player UI. It works 
   3. Paste this url into your browser: `about:extensions`
   4. Toggle `Developer Mode` on
   5. Click the TamperMonkey extension and scroll down a bit. Toggle the `Allow UserScripts` option on and restart your browser
-  7. Install BurritoTube: [BurritoTube](https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/BurritoTube.js)
+  7. Install [BurritoTube](https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/BurritoTube.user.js)
   8. Open Youtube and enjoy!
 
 ### Firefox
@@ -21,7 +21,7 @@ BurritoTube is a little script that returns the old Youtube player UI. It works 
   1. Go to the Firefox addons store and install a UserScript extension:
    [TamperMonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey)
   2. Click **Add to Firefox** to install TamperMonkey
-  3. Install BurritoTube: [BurritoTube](https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/BurritoTube.js)
+  3. Install [BurritoTube](https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/BurritoTube.user.js)
   4. Open Youtube and enjoy!
 
 ## Configuration
