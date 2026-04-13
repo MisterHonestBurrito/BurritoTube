@@ -40,4 +40,4 @@ I want to force the HD video quality on all videos. I locate the `forcedPlayback
 If you encounter any issues, please create an issue on Github by visiting this URL: https://github.com/issues. Try to describe your problem clearly, so I can help you fix it.
 
 ## Updates
-This script does not update automaticaly. You will have to manually click the `Update Scripts` button in the UserScripts menu. However, there probably won’t that many updates.
+This script does not update automaticaly. You will have to manually click the `Update Scripts` button in the UserScripts menu. However, there probably won’t be that many updates.
