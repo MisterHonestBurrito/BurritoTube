@@ -5,8 +5,8 @@
 // @description  Brings back the old, good Youtube UI.
 // @author       MisterHonestBurrito
 // @homepage     https://github.com/MisterHonestBurrito/BurritoTube
-// @updateURL    https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/BurritoTube.js
-// @downloadURL  https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/BurritoTube.js
+// @updateURL    https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/BurritoTube.user.js
+// @downloadURL  https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/BurritoTube.user.js
 // @supportURL   https://github.com/MisterHonestBurrito/BurritoTube/issues
 // @icon         https://raw.githubusercontent.com/MisterHonestBurrito/BurritoTube/refs/heads/main/DisplayIcon.png
 // @match        https://*.youtube.com/*
