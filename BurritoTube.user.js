@@ -20,9 +20,9 @@
     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------//
 
     /* START OF CONFIG */
-    let forcePlaybackQuality = true; // set to true to force a specific playback quality or false to disable (neither you or Youtube can change the quality with this on)
+    let forcePlaybackQuality = false; // set to true to force a specific playback quality or false to disable (neither you or Youtube can change the quality with this on)
 
-    let forcedPlaybackQuality = 'highest'; // set the desired playback quality when the video starts ('auto' to disable), you can also set 'highest' or 'lowest' to automatically select the highest or lowest available quality
+    let forcedPlaybackQuality = 'auto'; // set the desired playback quality when the video starts ('auto' to disable), you can also set 'highest' or 'lowest' to automatically select the highest or lowest available quality
     /*
     supported playback quality values:
     'highres', -- 8K
